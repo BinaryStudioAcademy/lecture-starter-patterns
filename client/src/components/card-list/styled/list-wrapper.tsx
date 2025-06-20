@@ -1,10 +1,9 @@
-import { colors } from "@atlaskit/theme";
 import styled from "@emotion/styled";
 
 import { SPACE_IN_PX } from "../../../common/constants/constants";
 
 const ListWrapper = styled.div`
-  background-color: ${colors.N30}
+  background-color: ${({ theme }) => theme.colors.N30}
   display: flex;
   flex-direction: column;
   opacity: inherit;
