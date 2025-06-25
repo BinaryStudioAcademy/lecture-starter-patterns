@@ -16,9 +16,9 @@ class ListHandler extends SocketHandler {
   }
 
   private reorderLists(sourceIndex: number, destinationIndex: number): void {
-    const lists = this.db.getData();
+    const allLists = this.db.getData();
     const reorderedLists = this.reorderService.reorder(
-      lists,
+      allLists,
       sourceIndex,
       destinationIndex
     );
@@ -27,9 +27,9 @@ class ListHandler extends SocketHandler {
   }
 
   private createList(name: string): void {
-    const lists = this.db.getData();
+    const allLists = this.db.getData();
     const newList = new List(name);
-    this.db.setData(lists.concat(newList));
+    this.db.setData(allLists.concat(newList));
     this.updateLists();
   }
 }

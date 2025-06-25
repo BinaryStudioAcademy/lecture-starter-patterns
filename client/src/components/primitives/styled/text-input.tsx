@@ -9,7 +9,7 @@ const TextInput = styled.textarea`
   border-color: rgba(0, 0, 0, 0.87);
   border-style: none;
   border-width: 1px;
-  height: 50px;
+  height: 55px;
   width: 100%;
   font-family: inherit;
   resize: vertical;

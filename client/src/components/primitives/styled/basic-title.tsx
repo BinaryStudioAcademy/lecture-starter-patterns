@@ -6,7 +6,7 @@ const BasicTitle = styled.h3`
   flex-grow: 1;
   user-select: none;
   position: relative;
-  margin: 0.6em 0;
+  margin: 0.7em 0;
 
   &:focus {
     outline: 2px solid #998dd9;

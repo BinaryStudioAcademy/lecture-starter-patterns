@@ -3,9 +3,9 @@ import { List } from "../data/models/list";
 
 class ReorderService {
   public reorder<T>(items: T[], startIndex: number, endIndex: number): T[] {
-    const card = items[startIndex];
+    const element = items[startIndex];
     const listWithRemoved = this.remove(items, startIndex);
-    const result = this.insert(listWithRemoved, endIndex, card);
+    const result = this.insert(listWithRemoved, endIndex, element);
 
     return result;
   }
@@ -23,10 +23,10 @@ class ReorderService {
     sourceListId: string;
     destinationListId: string;
   }): List[] {
-    const target: Card = lists.find((list) => list.id === sourceListId)
+    const targetCard: Card = lists.find((list) => list.id === sourceListId)
       ?.cards?.[sourceIndex];
 
-    if (!target) {
+    if (!targetCard) {
       return lists;
     }
 
@@ -36,7 +36,7 @@ class ReorderService {
       }
 
       if (list.id === destinationListId) {
-        list.setCards(this.insert(list.cards, destinationIndex, target));
+        list.setCards(this.insert(list.cards, destinationIndex, targetCard));
       }
 
       return list;

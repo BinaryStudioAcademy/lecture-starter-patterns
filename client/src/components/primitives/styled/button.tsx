@@ -5,7 +5,7 @@ import { BORDER_RADIUS } from "../../../common/constants/constants";
 const Button = styled.button`
   background-color: ${({ color }) => color};
   border-radius: ${BORDER_RADIUS}px;
-  width: 20%;
+  width: 22%;
   display: flex;
   justify-content: center;
   align-items: center;

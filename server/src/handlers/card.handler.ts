@@ -12,9 +12,9 @@ class CardHandler extends SocketHandler {
 
   public createCard(listId: string, cardName: string): void {
     const newCard = new Card(cardName, "");
-    const lists = this.db.getData();
+    const allLists = this.db.getData();
 
-    const updatedLists = lists.map((list) =>
+    const updatedLists = allLists.map((list) =>
       list.id === listId ? list.setCards(list.cards.concat(newCard)) : list
     );
 
@@ -33,9 +33,9 @@ class CardHandler extends SocketHandler {
     sourceListId: string;
     destinationListId: string;
   }): void {
-    const lists = this.db.getData();
+    const allLists = this.db.getData();
     const reordered = this.reorderService.reorderCards({
-      lists,
+      lists: allLists,
       sourceIndex,
       destinationIndex,
       sourceListId,
