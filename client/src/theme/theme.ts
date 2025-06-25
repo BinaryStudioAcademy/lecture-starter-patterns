@@ -1,15 +1,15 @@
 export const theme = {
   colors: {
-    // Neutral colors - Darker, more substantial grays
+    // Neutral colors - Darker colors for better white text visibility
     N0: '#FFFFFF',    // Pure white
     N20: '#E2E8F0',   // Medium-light gray with more presence
-    N30: '#CBD5E1',   // Noticeably darker gray for better definition
-    N400A: 'rgba(71, 85, 105, 0.4)', // Darker gray with stronger alpha
-    N900: '#1E293B',  // Deep slate gray for strong contrast
+    N30: '#64748B',   // Medium-dark gray
+    N400A: 'rgba(30, 41, 59, 0.7)', // Much darker gray with higher opacity
+    N900: '#0F172A',  // Very dark slate for maximum contrast
     
-    // Red colors
-    R75: '#FECACA',   // Saturated light red/pink
-    R100: '#EF4444',  // Bold, vibrant red
+    // Red colors - Darker reds for better white text visibility
+    R75: '#DC2626',   // Dark red ensuring white text is clearly visible
+    R100: '#B91C1C',  // Very dark red for maximum contrast with white text
   },
 };
 
