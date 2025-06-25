@@ -16,7 +16,7 @@ const Header = styled.div<Props>`
   background-color: ${({ isDragging, theme }) =>
     isDragging ? theme.colors.R100 : theme.colors.R75};
   transition: background-color 0.2s ease;
-  height: 85px;
+  height: 90px;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
 
