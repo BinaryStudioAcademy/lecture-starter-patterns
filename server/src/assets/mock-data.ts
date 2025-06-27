@@ -1,19 +1,16 @@
 import { Card } from '../data/models/card';
 import { List } from '../data/models/list';
 
-const toDo = new List("To Do");
-toDo.cards = [
-  new Card(
-    "Implement renaming lists",
-    "Expected result - possibility to change the name of the list"
-  ),
-  new Card(
-    "Implement adding cards",
-    "Expected result - possibility to create new cards"
-  ),
-  new Card(
-    "Implement removing cards",
-    "Expected result - possibility to delete the card when button is clicked"
+const toDo = new List("Backlog");
+toDo.cards = [  new Card(
+    "Implement list renaming functionality",
+    "Expected result - ability to modify the list name"
+  ),  new Card(
+    "Implement card creation feature",
+    "Expected result - ability to add new cards to lists"
+  ),  new Card(
+    "Implement card deletion functionality",
+    "Expected result - ability to remove cards when delete button is pressed"
   ),
   new Card(
     "Implement card title renaming",
@@ -22,10 +19,9 @@ toDo.cards = [
   new Card(
     "Implement card description renaming",
     "Expected result - possibility to change the card description"
-  ),
-  new Card(
-    "Implement card copying",
-    'Expected result - possibility to copy card. Should be implemented using Prototype pattern. Id should be new for a new card. The name of the card should have "copy" suffix'
+  ),  new Card(
+    "Implement task duplication feature",
+    'Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include "duplicate" suffix'
   ),
   new Card(
     "Implement logging on server side",
@@ -37,11 +33,11 @@ toDo.cards = [
   ),
 ];
 
-const inProgress = new List("In Progress");
+const inProgress = new List("Development");
 inProgress.cards = [
   new Card(
-    "Implement adding lists",
-    "Expected result - possibility to create a new list"
+    "Implement list creation functionality",
+    "Expected result - ability to add new lists to the board"
   ),
 ];
 

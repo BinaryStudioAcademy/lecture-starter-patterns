@@ -12,7 +12,7 @@ const ListWrapper = styled.div`
   padding-bottom: 0;
   transition: background-color 0.2s ease, opacity 0.1s ease;
   user-select: none;
-  width: 300px;
+  width: 320px;
 `;
 
 export { ListWrapper };

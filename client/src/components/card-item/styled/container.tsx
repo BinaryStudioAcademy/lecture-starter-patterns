@@ -12,7 +12,7 @@ const Container = styled.a<Props>`
   background-color: ${({ theme }) => theme.colors.N0};
   box-sizing: border-box;
   padding: ${SPACE_IN_PX}px;
-  min-height: 40px;
+  min-height: 45px;
   margin-bottom: ${SPACE_IN_PX}px;
   user-select: none;
 
