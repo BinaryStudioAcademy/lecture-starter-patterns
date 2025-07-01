@@ -16,6 +16,7 @@ class Card {
     this.id = randomUUID();
   }
 
+  // PATTERN:Prototype
   public static copy(card: Card) {
     return new Card(card.name, card.description);
   }
