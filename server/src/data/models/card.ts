@@ -15,6 +15,10 @@ class Card {
     this.createdAt = new Date();
     this.id = randomUUID();
   }
+
+  public static copy(card: Card) {
+    return new Card(card.name, card.description);
+  }
 }
 
 export { Card };

@@ -9,6 +9,8 @@ class ListHandler extends SocketHandler {
     socket.on(ListEvent.CREATE, this.createList.bind(this));
     socket.on(ListEvent.GET, this.getLists.bind(this));
     socket.on(ListEvent.REORDER, this.reorderLists.bind(this));
+    socket.on(ListEvent.RENAME, this.renameList.bind(this));
+    socket.on(ListEvent.DELETE, this.deleteList.bind(this));
   }
 
   private getLists(callback: (cards: List[]) => void): void {
@@ -30,6 +32,21 @@ class ListHandler extends SocketHandler {
     const allLists = this.db.getData();
     const newList = new List(name);
     this.db.setData(allLists.concat(newList));
+    this.updateLists();
+  }
+
+  private renameList(id: string, newName: string): void {
+    const allLists = this.db.getData();
+    const listToUpdate = allLists.find((list) => list.id === id);
+    listToUpdate.name = newName;
+    this.db.setData(allLists);
+    this.updateLists();
+  }
+
+  private deleteList(id: string): void {
+    const allLists = this.db.getData();
+    const filteredLists = allLists.filter((list) => list.id !== id);
+    this.db.setData(filteredLists);
     this.updateLists();
   }
 }

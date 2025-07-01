@@ -10,15 +10,17 @@ export const reorderService = {
     return items;
   },
 
+  findCards(lists: List[], location: DraggableLocation): Card[] {
+    return lists.find((list) => list.id === location.droppableId)?.cards || [];
+  },
+
   reorderCards(
     lists: List[],
     source: DraggableLocation,
     destination: DraggableLocation
   ): List[] {
-    const currentCards: Card[] =
-      lists.find((list) => list.id === source.droppableId)?.cards || [];
-    const nextCards: Card[] =
-      lists.find((list) => list.id === destination.droppableId)?.cards || [];
+    const currentCards: Card[] = this.findCards(lists, source);
+    const nextCards: Card[] = this.findCards(lists, destination);
     const targetCard: Card = currentCards[source.index];
 
     const isMovingInSameList = source.droppableId === destination.droppableId;
