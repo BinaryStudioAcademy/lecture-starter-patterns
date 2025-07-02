@@ -12,10 +12,9 @@ import { Title } from "../primitives/title";
 import { Footer } from "./components/footer";
 import { Container } from "./styled/container";
 import { Header } from "./styled/header";
-import { useEffect } from "react";
-import { ListEvent } from "../../common/enums/list-event.enum";
+import { ListEvent } from "../../../../common/src/enums/enums";
 import { socket } from "../../context/socket";
-import { CardEvent } from "../../common/enums/card-event.enum";
+import { CardEvent } from "../../../../common/src/enums/enums";
 
 type Props = {
   listId: string;

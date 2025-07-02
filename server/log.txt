@@ -1,0 +1,198 @@
+[2025-07-01T21:05:39.126Z] [info] Lists were successfully retrieved
+[2025-07-01T21:05:44.303Z] [info] List "Done" was successfully created
+[2025-07-01T21:05:49.624Z] [info] New card "New" was successfully created
+[2025-07-01T21:05:53.999Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description "
+[2025-07-01T21:05:54.311Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 1"
+[2025-07-01T21:05:54.429Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 12"
+[2025-07-01T21:05:54.505Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 123"
+[2025-07-01T21:05:54.643Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 1231"
+[2025-07-01T21:05:54.693Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 12312"
+[2025-07-01T21:05:54.760Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 123123"
+[2025-07-01T21:05:54.887Z] [info] Card 8d4f36dc-6317-4b33-b6a7-ac5f04175082 description was successfully changed to "Add description 1231231"
+[2025-07-01T21:06:36.064Z] [info] New card "1" was successfully created
+[2025-07-01T21:06:37.278Z] [info] New card "2" was successfully created
+[2025-07-01T21:06:38.602Z] [info] New card "3" was successfully created
+[2025-07-01T21:06:40.174Z] [info] Cards were successfully reordered
+[2025-07-01T21:06:44.053Z] [info] Cards were successfully reordered
+[2025-07-01T21:06:45.778Z] [info] Card 83cdef82-97aa-4af6-81a2-98ac667a2903 was successfully deleted
+[2025-07-01T21:06:52.576Z] [info] List "New List" was successfully created
+[2025-07-01T21:06:54.699Z] [info] Lists were successfully reordered
+[2025-07-01T21:06:56.974Z] [info] List 4f224603-b934-43ac-98a0-fbde0fd11d67 was successfully deleted
+[2025-07-02T10:20:38.544Z] [info] Lists were successfully reordered
+[2025-07-02T10:21:38.623Z] [INFO] Lists were successfully retrieved
+[2025-07-02T10:21:41.907Z] [INFO] List "Done" was successfully created
+[2025-07-02T10:31:09.456Z] [INFO] Lists were successfully retrieved
+[2025-07-02T10:31:17.964Z] [INFO] List "Done" was successfully created
+[2025-07-02T10:31:23.454Z] [INFO] List 104e5d0e-08e8-49a6-b275-1a293c42d728 was successfully renamed to "Don"
+[2025-07-02T10:31:23.630Z] [INFO] List 104e5d0e-08e8-49a6-b275-1a293c42d728 was successfully renamed to "Do"
+[2025-07-02T10:31:23.796Z] [INFO] List 104e5d0e-08e8-49a6-b275-1a293c42d728 was successfully renamed to "D"
+[2025-07-02T10:31:24.694Z] [INFO] List 104e5d0e-08e8-49a6-b275-1a293c42d728 was successfully renamed to ""
+[2025-07-02T10:31:24.695Z] [WARNING] List new name is empty
+[2025-07-02T10:31:30.878Z] [INFO] List 104e5d0e-08e8-49a6-b275-1a293c42d728 was successfully deleted
+[2025-07-02T10:31:36.069Z] [INFO] List "Done" was successfully created
+[2025-07-02T10:31:48.511Z] [INFO] New card "New card" was successfully created
+[2025-07-02T10:32:11.889Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "g"
+[2025-07-02T10:32:19.113Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "D"
+[2025-07-02T10:32:19.217Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "De"
+[2025-07-02T10:32:19.504Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "Des"
+[2025-07-02T10:32:19.671Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "Desc"
+[2025-07-02T10:32:19.906Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "Descr"
+[2025-07-02T10:32:20.581Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "Desc"
+[2025-07-02T10:32:20.747Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "Des"
+[2025-07-02T10:32:20.914Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "De"
+[2025-07-02T10:32:21.091Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc description was successfully changed to "D"
+[2025-07-02T10:32:52.319Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "New car"
+[2025-07-02T10:32:52.612Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "New ca"
+[2025-07-02T10:32:52.653Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "New c"
+[2025-07-02T10:32:52.812Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "New "
+[2025-07-02T10:32:52.949Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "New"
+[2025-07-02T10:32:53.109Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "Ne"
+[2025-07-02T10:32:53.290Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully renamed to "N"
+[2025-07-02T10:33:57.627Z] [INFO] Card 9268c24f-3f65-4bcb-8fe6-f8c1fc8af0fc was successfully deleted
+[2025-07-02T10:34:06.505Z] [INFO] New card "12" was successfully created
+[2025-07-02T10:34:10.561Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add descriptio"
+[2025-07-02T10:34:11.074Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add descripti"
+[2025-07-02T10:34:11.105Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add descript"
+[2025-07-02T10:34:11.137Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add descrip"
+[2025-07-02T10:34:11.172Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add descri"
+[2025-07-02T10:34:11.204Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add descr"
+[2025-07-02T10:34:11.234Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add desc"
+[2025-07-02T10:34:11.270Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add des"
+[2025-07-02T10:34:11.301Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add de"
+[2025-07-02T10:34:11.333Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add d"
+[2025-07-02T10:34:11.373Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add "
+[2025-07-02T10:34:11.429Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Add"
+[2025-07-02T10:34:11.434Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "Ad"
+[2025-07-02T10:34:11.480Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "A"
+[2025-07-02T10:34:11.505Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to ""
+[2025-07-02T10:34:11.505Z] [WARNING] Card new description is empty
+[2025-07-02T10:34:29.326Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 was successfully renamed to "1"
+[2025-07-02T10:34:29.482Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 was successfully renamed to ""
+[2025-07-02T10:34:29.482Z] [WARNING] Card new name is empty
+[2025-07-02T10:34:38.898Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "C"
+[2025-07-02T10:34:39.016Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "CH"
+[2025-07-02T10:34:39.186Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "CHa"
+[2025-07-02T10:34:39.299Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "CHan"
+[2025-07-02T10:34:39.479Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "CHang"
+[2025-07-02T10:34:39.531Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 description was successfully changed to "CHange"
+[2025-07-02T10:40:56.350Z] [INFO] Card cad248d3-59ce-48cb-a1a1-840bf6fd3f62 was successfully copied at Wed Jul 02 2025 13:40:56 GMT+0300 (за східноєвропейським літнім часом). New card id: 53069126-43ff-44f1-8c46-36332c7f57cc
+[2025-07-02T10:40:57.405Z] [INFO] Card 53069126-43ff-44f1-8c46-36332c7f57cc was successfully deleted
+[2025-07-02T10:53:59.627Z] [INFO] Card 67988b17-233e-436f-b476-54975bf46cf8 was successfully copied at Wed Jul 02 2025 13:53:59 GMT+0300 (за східноєвропейським літнім часом). New card id: 73fa91bc-c584-4078-b458-5a3604977f96
+[2025-07-02T10:54:00.607Z] [INFO] Card 73fa91bc-c584-4078-b458-5a3604977f96 was successfully copied at Wed Jul 02 2025 13:54:00 GMT+0300 (за східноєвропейським літнім часом). New card id: c8a7424f-c1bb-4be4-ab78-18842258754b
+[2025-07-02T10:54:03.655Z] [INFO] Card 73fa91bc-c584-4078-b458-5a3604977f96 was successfully renamed to "Implement list creation functionality2"
+[2025-07-02T10:54:04.731Z] [INFO] Card c8a7424f-c1bb-4be4-ab78-18842258754b was successfully renamed to "Implement list creation functionality3"
+[2025-07-02T10:54:06.175Z] [INFO] Card 73fa91bc-c584-4078-b458-5a3604977f96 was successfully deleted
+[2025-07-02T10:54:09.207Z] [INFO] Card c8a7424f-c1bb-4be4-ab78-18842258754b was successfully deleted
+[2025-07-02T10:54:14.743Z] [INFO] New card "Cr" was successfully created with an id 96a7d00b-4f2f-4be3-8507-0b9106fddb5b
+[2025-07-02T10:54:19.401Z] [INFO] Card ded8c252-57ae-401c-855e-7824ed832a5f was successfully deleted
+[2025-07-02T11:00:36.685Z] [INFO] New card "1" was successfully created with an id abc2ddae-9bdc-4ef9-93a0-f15c05765879
+[2025-07-02T11:00:37.717Z] [INFO] New card "2" was successfully created with an id b400f7f3-1c88-4657-94e4-ee3532723362
+[2025-07-02T11:00:38.660Z] [INFO] New card "3" was successfully created with an id c93e50f8-f6d6-44ac-9e66-1011181660b4
+[2025-07-02T11:00:39.694Z] [INFO] Cards were successfully reordered
+[2025-07-02T11:00:40.529Z] [INFO] Card c93e50f8-f6d6-44ac-9e66-1011181660b4 was successfully deleted
+[2025-07-02T11:00:43.077Z] [INFO] Card abc2ddae-9bdc-4ef9-93a0-f15c05765879 was successfully copied at Wed Jul 02 2025 14:00:43 GMT+0300 (за східноєвропейським літнім часом). New card id: 89689e66-463a-4803-b192-67c3a7a862fe
+[2025-07-02T11:00:43.967Z] [INFO] Card 89689e66-463a-4803-b192-67c3a7a862fe was successfully deleted
+[2025-07-02T11:47:37.911Z] [INFO] List "Done" was successfully created with an id ed8230e5-459e-401f-9e2f-1cf3b4075aa1
+[2025-07-02T11:52:23.855Z] [INFO] List "D" was successfully created with an id 28983ce9-a72b-4110-a9d2-e82498be7c7e
+[2025-07-02T11:53:19.783Z] [INFO] List "Done" was successfully created with an id c0864151-10f5-42d4-b84a-49336e3869c1
+[2025-07-02T11:53:26.231Z] [INFO] List "Test" was successfully created with an id f0c5f138-a568-4e95-a050-4c3c3f8ca66d
+[2025-07-02T11:53:29.641Z] [INFO] Lists were successfully reordered
+[2025-07-02T11:53:33.356Z] [INFO] List "New" was successfully created with an id d4a41870-8a9c-4b95-bea7-4eac5684dfd4
+[2025-07-02T11:53:38.941Z] [INFO] List f0c5f138-a568-4e95-a050-4c3c3f8ca66d was successfully deleted
+[2025-07-02T11:53:41.351Z] [INFO] Lists were successfully reordered
+[2025-07-02T11:53:44.779Z] [INFO] List "More" was successfully created with an id 393cfe0b-2038-4661-9034-5a52b3eeec9c
+[2025-07-02T11:53:45.850Z] [INFO] List 393cfe0b-2038-4661-9034-5a52b3eeec9c was successfully deleted
+[2025-07-02T11:53:46.690Z] [INFO] List d4a41870-8a9c-4b95-bea7-4eac5684dfd4 was successfully deleted
+[2025-07-02T12:07:01.496Z] [INFO] List "Done" was successfully created with an id bc951270-ee09-4b96-b936-8feb3254e347
+[2025-07-02T12:07:04.585Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Don"
+[2025-07-02T12:07:04.747Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Do"
+[2025-07-02T12:07:04.926Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "D"
+[2025-07-02T12:07:05.083Z] [WARNING] List new name is empty
+[2025-07-02T12:07:05.782Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "T"
+[2025-07-02T12:07:05.927Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Te"
+[2025-07-02T12:07:05.991Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Tes"
+[2025-07-02T12:07:06.096Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Test"
+[2025-07-02T12:07:06.558Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Testi"
+[2025-07-02T12:07:06.757Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Testin"
+[2025-07-02T12:07:06.840Z] [INFO] List bc951270-ee09-4b96-b936-8feb3254e347 was successfully renamed to "Testing"
+[2025-07-02T12:07:15.390Z] [INFO] List "Done" was successfully created with an id 7175d3b0-d22c-4919-be93-dc545c61267e
+[2025-07-02T12:07:20.988Z] [INFO] Lists were successfully reordered
+[2025-07-02T12:07:22.162Z] [INFO] List 7175d3b0-d22c-4919-be93-dc545c61267e was successfully renamed to "Done2"
+[2025-07-02T12:23:51.412Z] [INFO] List "Done" was successfully created with an id c41d1b45-3f85-4d06-b76b-d22656d017ce
+[2025-07-02T12:23:56.070Z] [INFO] List "Testing" was successfully created with an id 5eb85fbc-9b53-4b99-a519-1fdc090a51c6
+[2025-07-02T12:23:58.803Z] [INFO] Lists were successfully reordered
+[2025-07-02T12:24:00.649Z] [INFO] List 5eb85fbc-9b53-4b99-a519-1fdc090a51c6 was successfully deleted
+[2025-07-02T13:38:48.399Z] [INFO] List "Done" was successfully created with an id 3bf438e0-c684-4fa7-907f-9d2037ea7695
+[2025-07-02T13:38:52.691Z] [INFO] New card "1" was successfully created with an id f5c1fee9-7a19-4894-8e25-0c491ef56929
+[2025-07-02T13:38:54.221Z] [INFO] New card "2" was successfully created with an id 7b83156f-cf26-4770-8626-db7f6740fc82
+[2025-07-02T13:38:55.705Z] [INFO] New card "3" was successfully created with an id 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41
+[2025-07-02T13:38:57.660Z] [INFO] Cards were successfully reordered
+[2025-07-02T13:39:00.291Z] [INFO] Cards were successfully reordered
+[2025-07-02T13:39:06.211Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description "
+[2025-07-02T13:39:06.501Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description n"
+[2025-07-02T13:39:06.548Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description ne"
+[2025-07-02T13:39:06.613Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description new"
+[2025-07-02T13:39:19.568Z] [INFO] Card acdd919b-0235-45eb-ac3a-ebf765bee717 was successfully copied at Wed Jul 02 2025 16:39:19 GMT+0300 (за східноєвропейським літнім часом). New card id: 3651fc3d-e1bc-495c-9c78-470b6b4feaf6
+[2025-07-02T13:39:24.219Z] [INFO] Card acdd919b-0235-45eb-ac3a-ebf765bee717 was successfully renamed to "Implement list creation functionality "
+[2025-07-02T13:39:24.611Z] [INFO] Card acdd919b-0235-45eb-ac3a-ebf765bee717 was successfully renamed to "Implement list creation functionality 1"
+[2025-07-02T13:39:31.056Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description "
+[2025-07-02T13:39:32.381Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description 2"
+[2025-07-02T13:39:32.543Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 description was successfully changed to "Add description 22"
+[2025-07-02T13:39:47.846Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 was successfully renamed to "33"
+[2025-07-02T13:39:48.023Z] [INFO] Card 3e3f38e1-11a1-46d1-a7e1-d6b39452eb41 was successfully renamed to "333"
+[2025-07-02T13:39:54.834Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 description was successfully changed to "Add description "
+[2025-07-02T13:39:55.085Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 description was successfully changed to "Add description e"
+[2025-07-02T13:39:55.219Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 description was successfully changed to "Add description ew"
+[2025-07-02T13:39:55.359Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 description was successfully changed to "Add description ewe"
+[2025-07-02T13:40:01.094Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 was successfully renamed to "23"
+[2025-07-02T13:40:01.294Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 was successfully renamed to "232"
+[2025-07-02T13:40:04.723Z] [INFO] Card 7b83156f-cf26-4770-8626-db7f6740fc82 was successfully renamed to "2323"
+[2025-07-02T13:42:41.764Z] [INFO] List "Done" was successfully created with an id 27b7a08c-5c3a-4ac8-a7fe-999a1c97751b
+[2025-07-02T13:42:43.923Z] [INFO] New card "1" was successfully created with an id 4e76dcb8-b745-41c3-991e-ab7671e5c636
+[2025-07-02T13:42:44.883Z] [INFO] New card "2" was successfully created with an id e39666a2-4dc3-48ff-a40f-dc202e0b22e4
+[2025-07-02T13:42:46.035Z] [INFO] New card "3" was successfully created with an id b45841a4-3e61-4e16-bd99-e0e5a66ab481
+[2025-07-02T13:42:49.563Z] [INFO] Cards were successfully reordered
+[2025-07-02T13:42:50.967Z] [INFO] Card b45841a4-3e61-4e16-bd99-e0e5a66ab481 description was successfully changed to "Add description "
+[2025-07-02T13:42:51.156Z] [INFO] Card b45841a4-3e61-4e16-bd99-e0e5a66ab481 description was successfully changed to "Add description 2"
+[2025-07-02T13:42:51.348Z] [INFO] Card b45841a4-3e61-4e16-bd99-e0e5a66ab481 description was successfully changed to "Add description 22"
+[2025-07-02T13:42:55.974Z] [INFO] Card e39666a2-4dc3-48ff-a40f-dc202e0b22e4 was successfully copied at Wed Jul 02 2025 16:42:55 GMT+0300 (за східноєвропейським літнім часом). New card id: d9566ee0-2544-4f6d-a5ef-f4adf38ddd62
+[2025-07-02T13:42:57.033Z] [INFO] Card d9566ee0-2544-4f6d-a5ef-f4adf38ddd62 was successfully renamed to "23"
+[2025-07-02T13:42:57.369Z] [INFO] Card d9566ee0-2544-4f6d-a5ef-f4adf38ddd62 was successfully renamed to "233"
+[2025-07-02T13:43:00.844Z] [INFO] Card e39666a2-4dc3-48ff-a40f-dc202e0b22e4 was successfully renamed to "24"
+[2025-07-02T13:43:04.411Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully renamed to "11"
+[2025-07-02T13:43:04.674Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully renamed to "113"
+[2025-07-02T13:43:08.775Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully copied at Wed Jul 02 2025 16:43:08 GMT+0300 (за східноєвропейським літнім часом). New card id: d677dbff-11e0-49d8-8abf-cd85d225843b
+[2025-07-02T13:43:10.041Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully renamed to "1132"
+[2025-07-02T13:43:10.201Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully renamed to "11322"
+[2025-07-02T13:43:10.360Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully renamed to "113222"
+[2025-07-02T13:43:11.926Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description "
+[2025-07-02T13:43:12.044Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description s"
+[2025-07-02T13:43:12.098Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sd"
+[2025-07-02T13:43:12.222Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sds"
+[2025-07-02T13:43:12.236Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sdsa"
+[2025-07-02T13:43:12.311Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sdsad"
+[2025-07-02T13:43:17.031Z] [INFO] Cards were successfully reordered
+[2025-07-02T13:43:19.877Z] [INFO] Cards were successfully reordered
+[2025-07-02T13:43:23.637Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully copied at Wed Jul 02 2025 16:43:23 GMT+0300 (за східноєвропейським літнім часом). New card id: ff614ec2-669f-4840-8ac6-03547d3a0222
+[2025-07-02T13:43:25.872Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sdsad "
+[2025-07-02T13:43:26.136Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sdsad s"
+[2025-07-02T13:43:26.284Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sdsad ss"
+[2025-07-02T13:43:26.412Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 description was successfully changed to "Add description sdsad sss"
+[2025-07-02T13:43:30.245Z] [INFO] Card 4e76dcb8-b745-41c3-991e-ab7671e5c636 was successfully deleted
+[2025-07-02T13:43:31.632Z] [INFO] Card d9566ee0-2544-4f6d-a5ef-f4adf38ddd62 was successfully deleted
+[2025-07-02T13:54:38.985Z] [INFO] List "Done" was successfully created with an id 99305692-cbf3-44c4-a8c3-1639e6a64496
+[2025-07-02T13:54:40.074Z] [INFO] New card "1" was successfully created with an id c353dbdf-6bff-4529-bb7f-2b2d22463a95
+[2025-07-02T13:54:41.021Z] [INFO] New card "2" was successfully created with an id 8b4d97f9-acc3-4e36-93ae-b3ac2d4bdaa9
+[2025-07-02T13:54:45.434Z] [INFO] List "Testing" was successfully created with an id 717266c7-7bfa-4961-b58d-4c179af26e76
+[2025-07-02T13:54:49.217Z] [INFO] New card "11" was successfully created with an id 6c1562a5-78c7-4593-a227-9f4a0611f04f
+[2025-07-02T13:54:50.845Z] [INFO] New card "222" was successfully created with an id 71e36538-eab9-4de5-9863-d9b5a49b3fb4
+[2025-07-02T13:54:53.292Z] [INFO] Card 71e36538-eab9-4de5-9863-d9b5a49b3fb4 description was successfully changed to "Add description "
+[2025-07-02T13:54:53.467Z] [INFO] Card 71e36538-eab9-4de5-9863-d9b5a49b3fb4 description was successfully changed to "Add description s"
+[2025-07-02T13:54:54.525Z] [INFO] Card 71e36538-eab9-4de5-9863-d9b5a49b3fb4 description was successfully changed to "Add description so"
+[2025-07-02T13:54:54.856Z] [INFO] Card 71e36538-eab9-4de5-9863-d9b5a49b3fb4 description was successfully changed to "Add description som"
+[2025-07-02T13:54:54.945Z] [INFO] Card 71e36538-eab9-4de5-9863-d9b5a49b3fb4 description was successfully changed to "Add description some"
+[2025-07-02T13:55:00.115Z] [INFO] Cards were successfully reordered
+[2025-07-02T13:55:02.963Z] [INFO] Lists were successfully reordered
+[2025-07-02T13:55:09.311Z] [INFO] Lists were successfully reordered
+[2025-07-02T13:55:11.991Z] [INFO] Lists were successfully reordered
+[2025-07-02T13:55:13.297Z] [INFO] Card 8b4d97f9-acc3-4e36-93ae-b3ac2d4bdaa9 was successfully deleted

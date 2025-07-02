@@ -6,13 +6,13 @@ import type {
 import { DragDropContext, Droppable } from "@hello-pangea/dnd";
 import React, { useContext, useEffect, useState } from "react";
 
-import { CardEvent, ListEvent } from "../common/enums/enums";
 import { type List } from "../common/types/types";
 import { Column } from "../components/column/column";
 import { ColumnCreator } from "../components/column-creator/column-creator";
 import { SocketContext } from "../context/socket";
 import { reorderLists, reorderCards } from "../services/reorder.service";
 import { Container } from "./styled/container";
+import { CardEvent, ListEvent } from "../../../common/src/enums/enums";
 
 export const Workspace = () => {
   const [lists, setLists] = useState<List[]>([]);

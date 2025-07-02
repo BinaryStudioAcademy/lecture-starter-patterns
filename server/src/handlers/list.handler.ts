@@ -1,8 +1,10 @@
 import type { Socket } from "socket.io";
 
-import { ListEvent } from "../common/enums/enums";
+import { ListEvent } from "../../../common/src/enums/enums";
 import { List } from "../data/models/list";
 import { SocketHandler } from "./socket.handler";
+import { logger } from "../common/helpers/logger";
+import { findItemIndexById, insertItem, updateItemAtIndex } from "../common/helpers/handlers/handler-helper";
 
 class ListHandler extends SocketHandler {
   public handleConnection(socket: Socket): void {
@@ -26,28 +28,45 @@ class ListHandler extends SocketHandler {
     );
     this.db.setData(reorderedLists);
     this.updateLists();
+
+    logger.log("info", "Lists were successfully reordered");
   }
 
   private createList(name: string): void {
     const allLists = this.db.getData();
     const newList = new List(name);
-    this.db.setData(allLists.concat(newList));
+    const updatedLists = insertItem(allLists, allLists.length, newList);
+    this.db.setData(updatedLists);
     this.updateLists();
+
+    logger.log("info", `List "${name}" was successfully created with an id ${newList.id}`);
   }
 
   private renameList(id: string, newName: string): void {
     const allLists = this.db.getData();
-    const listToUpdate = allLists.find((list) => list.id === id);
-    listToUpdate.name = newName;
-    this.db.setData(allLists);
+    const listIndexToUpdate = findItemIndexById(allLists, id);
+    const updatedLists = updateItemAtIndex(
+      allLists, 
+      listIndexToUpdate, 
+      (list) => ({...list, name: newName} as List)
+    );
+    this.db.setData(updatedLists);
     this.updateLists();
+
+    if(!newName.trim()) {
+      logger.log("warning", "List new name is empty");
+    } else {
+      logger.log("info", `List ${id} was successfully renamed to "${newName}"`);
+    }
   }
 
   private deleteList(id: string): void {
     const allLists = this.db.getData();
-    const filteredLists = allLists.filter((list) => list.id !== id);
-    this.db.setData(filteredLists);
+    const updatedLists = allLists.filter((list) => list.id !== id);
+    this.db.setData(updatedLists);
     this.updateLists();
+
+    logger.log("info", `List ${id} was successfully deleted`);
   }
 }
 

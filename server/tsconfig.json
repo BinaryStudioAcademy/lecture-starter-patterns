@@ -1,7 +1,7 @@
 {
   "include": [
     "src/**/*"
-  ],
+, "../common/src/enums/event-types/card-event.enum.ts", "../common/src/enums/event-types/list-event.enum.ts"  ],
   "exclude": [
     "node_modules"
   ],
