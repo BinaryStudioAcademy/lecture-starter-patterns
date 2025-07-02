@@ -1,7 +1,8 @@
+import { IReorder } from "../data/interfaces/reorder.interface";
 import { Card } from "../data/models/card";
 import { List } from "../data/models/list";
 
-class ReorderService {
+class ReorderService implements IReorder {
   public reorder<T>(items: T[], startIndex: number, endIndex: number): T[] {
     const element = items[startIndex];
     const listWithRemoved = this.remove(items, startIndex);

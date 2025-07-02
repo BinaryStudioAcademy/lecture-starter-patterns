@@ -196,3 +196,362 @@
 [2025-07-02T13:55:09.311Z] [INFO] Lists were successfully reordered
 [2025-07-02T13:55:11.991Z] [INFO] Lists were successfully reordered
 [2025-07-02T13:55:13.297Z] [INFO] Card 8b4d97f9-acc3-4e36-93ae-b3ac2d4bdaa9 was successfully deleted
+[2025-07-02T15:01:39.659Z] [INFO] List "Done" was successfully created with an id 9308883c-ca6b-4fd2-a87d-7b4b58689964
+[2025-07-02T15:01:42.536Z] [INFO]  has the next arguments: [object Object]
+[2025-07-02T15:01:42.541Z] [INFO] Lists were successfully reordered
+[2025-07-02T15:02:39.026Z] [INFO] List "Done" was successfully created with an id 4234af45-4772-4717-8342-708fc99175c4
+[2025-07-02T15:02:40.662Z] [INFO]  has the next arguments: {"0":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:02:34.671Z","id":"d47b793b-9c13-4947-a8a0-5ec8603dffe1"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:02:34.671Z","id":"f959f6da-34b9-49d8-820f-cb82414d6ef0"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:02:34.671Z","id":"46d2843b-6749-429c-acde-9f8635f03e5d"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:02:34.671Z","id":"0e7dbf24-4eb1-42e3-ae68-612ce34c6df4"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:02:34.671Z","id":"49f6a824-095f-4859-a67f-624094146e94"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:02:34.671Z","id":"c77eab6b-3f45-439e-8395-9906490749cd"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:02:34.671Z","id":"57350661-1b8e-4858-89b7-26356720cd66"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:02:34.671Z","id":"2c2355fb-e218-4c20-900b-7edfd2b6c1ad"}],"name":"Backlog","id":"81266d5a-7664-4cd0-b968-d835d65c9be2"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:02:34.671Z","id":"bd2f1fbb-95d5-400d-8db8-e0d1f961fe1d"}],"name":"Development","id":"1bb17aea-f45f-4cf1-96ca-513856b33f94"},{"cards":[],"name":"Done","id":"4234af45-4772-4717-8342-708fc99175c4"}],"1":2,"2":1}
+[2025-07-02T15:02:40.664Z] [INFO] Lists were successfully reordered
+[2025-07-02T15:03:39.075Z] [INFO]  has the next arguments: {"0":{"lists":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:02:34.671Z","id":"d47b793b-9c13-4947-a8a0-5ec8603dffe1"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:02:34.671Z","id":"f959f6da-34b9-49d8-820f-cb82414d6ef0"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:02:34.671Z","id":"46d2843b-6749-429c-acde-9f8635f03e5d"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:02:34.671Z","id":"0e7dbf24-4eb1-42e3-ae68-612ce34c6df4"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:02:34.671Z","id":"49f6a824-095f-4859-a67f-624094146e94"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:02:34.671Z","id":"c77eab6b-3f45-439e-8395-9906490749cd"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:02:34.671Z","id":"57350661-1b8e-4858-89b7-26356720cd66"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:02:34.671Z","id":"2c2355fb-e218-4c20-900b-7edfd2b6c1ad"}],"name":"Backlog","id":"81266d5a-7664-4cd0-b968-d835d65c9be2"},{"cards":[],"name":"Done","id":"4234af45-4772-4717-8342-708fc99175c4"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:02:34.671Z","id":"bd2f1fbb-95d5-400d-8db8-e0d1f961fe1d"}],"name":"Development","id":"1bb17aea-f45f-4cf1-96ca-513856b33f94"}],"sourceIndex":1,"destinationIndex":0,"sourceListId":"81266d5a-7664-4cd0-b968-d835d65c9be2","destinationListId":"81266d5a-7664-4cd0-b968-d835d65c9be2"}}
+[2025-07-02T15:03:39.079Z] [INFO] Cards were successfully reordered
+[2025-07-02T15:04:22.502Z] [INFO]  has the next arguments: {"0":[{"cards":[{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:02:34.671Z","id":"f959f6da-34b9-49d8-820f-cb82414d6ef0"},{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:02:34.671Z","id":"d47b793b-9c13-4947-a8a0-5ec8603dffe1"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:02:34.671Z","id":"46d2843b-6749-429c-acde-9f8635f03e5d"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:02:34.671Z","id":"0e7dbf24-4eb1-42e3-ae68-612ce34c6df4"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:02:34.671Z","id":"49f6a824-095f-4859-a67f-624094146e94"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:02:34.671Z","id":"c77eab6b-3f45-439e-8395-9906490749cd"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:02:34.671Z","id":"57350661-1b8e-4858-89b7-26356720cd66"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:02:34.671Z","id":"2c2355fb-e218-4c20-900b-7edfd2b6c1ad"}],"name":"Backlog","id":"81266d5a-7664-4cd0-b968-d835d65c9be2"},{"cards":[],"name":"Done","id":"4234af45-4772-4717-8342-708fc99175c4"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:02:34.671Z","id":"bd2f1fbb-95d5-400d-8db8-e0d1f961fe1d"}],"name":"Development","id":"1bb17aea-f45f-4cf1-96ca-513856b33f94"}],"1":1,"2":2}
+[2025-07-02T15:04:22.928Z] [INFO] Lists were successfully reordered
+[2025-07-02T15:08:06.754Z] [INFO]  has the next arguments: {"0":{"lists":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:07:57.860Z","id":"aefd611b-a4dd-4454-ac3a-6f33cb560080"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:07:57.860Z","id":"9d42c9e8-ec1c-4f41-a36d-66d0c6163b88"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:07:57.860Z","id":"81e0488e-23dd-48ef-a6b9-ed4d44c6ffe8"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:07:57.860Z","id":"5619563f-a582-4820-b007-b245771943e8"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:07:57.860Z","id":"b2d1010e-d24b-4734-b899-426397ae117c"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:07:57.860Z","id":"64617d5a-a90d-44da-a90f-d44c36327d24"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:07:57.860Z","id":"2f6b7343-bc23-4b19-ac3b-3faa28850ff3"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:07:57.860Z","id":"98e4ce86-303b-44fb-885b-98ef9716115d"}],"name":"Backlog","id":"9065f1be-2fd3-4378-a685-933a0d54466b"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:07:57.860Z","id":"3551313e-999f-43d9-b6ba-6c97656ef43e"}],"name":"Development","id":"728e2352-0aec-4e84-9e2c-cfc96699a631"}],"sourceIndex":1,"destinationIndex":0,"sourceListId":"9065f1be-2fd3-4378-a685-933a0d54466b","destinationListId":"9065f1be-2fd3-4378-a685-933a0d54466b"}}
+[2025-07-02T15:08:06.763Z] [INFO] Cards were successfully reordered
+[2025-07-02T15:10:33.072Z] [INFO] ProxyReorderService has the next arguments: {"0":{"lists":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:10:21.629Z","id":"f1cbbd9f-860f-431d-8050-db88cfe1f281"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:10:21.629Z","id":"e73ac291-b6bf-41a5-a462-632649d77432"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:10:21.629Z","id":"481efad8-7f2e-420a-959f-70b8a934956b"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:10:21.629Z","id":"20bf5f1c-721f-45ba-a135-eed5182238d3"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:10:21.629Z","id":"62275f50-0aee-47bf-bbed-1a1c7c1b46e5"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:10:21.629Z","id":"9536a6d2-daa6-4f43-b1d3-6f7d6853e2d0"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:10:21.629Z","id":"5449cfd5-5db9-417d-b010-674995886534"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:10:21.629Z","id":"d2b7ae6e-a110-4c30-848e-15b0acc7cbda"}],"name":"Backlog","id":"576710c5-0fc8-41ca-b711-0b602ff934b7"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:10:21.629Z","id":"fcc3aa56-b744-487b-a0e6-333ec8e1a86e"}],"name":"Development","id":"4711c61b-e14a-44b2-ba7b-8d608de3e973"}],"sourceIndex":0,"destinationIndex":1,"sourceListId":"576710c5-0fc8-41ca-b711-0b602ff934b7","destinationListId":"576710c5-0fc8-41ca-b711-0b602ff934b7"}}
+[2025-07-02T15:10:33.075Z] [INFO] Cards were successfully reordered
+[2025-07-02T15:11:34.993Z] [INFO] function (_a) {
+        var lists = _a.lists, sourceIndex = _a.sourceIndex, destinationIndex = _a.destinationIndex, sourceListId = _a.sourceListId, destinationListId = _a.destinationListId;
+        logger_1.logger.log("info", "".concat(this.reorderCards, " has the next arguments: ").concat(JSON.stringify(__assign({}, arguments))));
+        return this.reorderService.reorderCards({
+            lists: lists,
+            sourceIndex: sourceIndex,
+            destinationIndex: destinationIndex,
+            sourceListId: sourceListId,
+            destinationListId: destinationListId,
+        });
+    } has the next arguments: {"0":{"lists":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:11:30.625Z","id":"f1bebf6f-1c43-40fa-a42e-b794b749a5d6"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:11:30.625Z","id":"50292f28-087c-405b-b14b-97a31097063f"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:11:30.625Z","id":"96f60bec-0a2f-4468-9b76-a0e41768eeae"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:11:30.625Z","id":"4541a51f-c816-419b-ace2-a224bee4a95f"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:11:30.625Z","id":"c8e2d88b-ef0f-466a-8e95-ac2df9e094ec"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:11:30.625Z","id":"06253e3d-1daa-4dd1-8139-7daeded42c81"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:11:30.625Z","id":"e990c0c2-81ae-49ea-ad53-0572e59d87fe"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:11:30.625Z","id":"06a21326-ad46-4076-a4e9-14eed33ca0c5"}],"name":"Backlog","id":"5ff529b2-e7f5-47a2-a60e-ae79ad3579ec"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:11:30.625Z","id":"4a9c2b21-4f6a-4f55-ac60-2d1635ae7c66"}],"name":"Development","id":"ae287116-253b-4908-8b21-c2b7a907162a"}],"sourceIndex":1,"destinationIndex":0,"sourceListId":"5ff529b2-e7f5-47a2-a60e-ae79ad3579ec","destinationListId":"5ff529b2-e7f5-47a2-a60e-ae79ad3579ec"}}
+[2025-07-02T15:11:34.996Z] [INFO] Cards were successfully reordered
+[2025-07-02T15:12:55.308Z] [INFO] reorder has the next arguments: {"0":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:12:52.285Z","id":"fee193c4-3db7-4b30-a33d-5fccd2221c78"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:12:52.285Z","id":"b6b5d417-fbcd-427e-af6b-2cbe23ccca42"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:12:52.285Z","id":"8bbd8ba4-f995-44a1-9050-1055a04c08d7"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:12:52.285Z","id":"0196cde9-86c1-4d11-8b73-3f8bf475db60"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:12:52.285Z","id":"7286f214-7ae4-44cf-ae5a-2f637b560dc0"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:12:52.285Z","id":"055f9440-6e1d-4706-823b-8dd5f834eb9c"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:12:52.285Z","id":"91d62dcc-e25d-4c59-9442-5dc9b40f7868"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:12:52.285Z","id":"d21bc3ca-0978-4234-adf1-4a8d8ceb9d52"}],"name":"Backlog","id":"89a5ff69-8161-45cb-84af-4b653b516813"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:12:52.285Z","id":"0df9e25e-2df2-407c-ae99-8042b69ca749"}],"name":"Development","id":"ab1e75de-406e-4cd4-a384-bbfdf6731be7"}],"1":1,"2":0}
+[2025-07-02T15:12:55.317Z] [INFO] Lists were successfully reordered
+[2025-07-02T15:13:40.396Z] [INFO] Function reorderCards has the next arguments: {"0":{"lists":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:13:36.560Z","id":"24680e49-a3a9-4f44-9860-2f8fbda2f0e3"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:13:36.560Z","id":"7333b8c4-7e53-43d3-a768-1f1de8fe6f30"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:13:36.560Z","id":"7f2a2547-5d83-4d76-9263-a5540fc2ac0c"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:13:36.560Z","id":"b4d76f16-f428-4239-b775-a5eddb770ac7"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:13:36.560Z","id":"cbd01cbd-2285-4034-83a1-ba8bb9b61705"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:13:36.560Z","id":"5941bef4-c48b-490b-a37d-ce6183fc8864"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:13:36.560Z","id":"7bd56d8e-cf9e-4264-ab41-ae1ec107cf5f"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:13:36.560Z","id":"7a9bdc4f-f469-4e73-9a9d-7e67b2a36092"}],"name":"Backlog","id":"027741c9-880d-4eeb-a170-c0e72c3533d6"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:13:36.560Z","id":"56aaf43c-528e-47c4-9928-7b82eed60a24"}],"name":"Development","id":"519d79aa-6a36-4825-b2b7-fb56292f9f87"}],"sourceIndex":1,"destinationIndex":0,"sourceListId":"027741c9-880d-4eeb-a170-c0e72c3533d6","destinationListId":"027741c9-880d-4eeb-a170-c0e72c3533d6"}}
+[2025-07-02T15:13:40.400Z] [INFO] Cards were successfully reordered
+[2025-07-02T15:14:03.145Z] [INFO] Method "reorderCards" has the next arguments: {"0":{"lists":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T15:14:01.298Z","id":"59e2052f-5331-4616-95ac-acfd4542928b"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T15:14:01.299Z","id":"31425b87-7541-40de-af0b-74ac735b9685"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T15:14:01.299Z","id":"a15b0437-c52a-423c-878a-cb687db52a4d"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T15:14:01.299Z","id":"7a2c8410-cf24-416b-be15-056f656e870f"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T15:14:01.299Z","id":"17c206d3-908d-4903-b9fa-798a9f6f50b3"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T15:14:01.299Z","id":"e769a964-14fa-49a7-bfc5-288cb41a2e00"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T15:14:01.299Z","id":"bf891272-9812-49a9-a946-ac1e49cf395b"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T15:14:01.299Z","id":"621cf4cf-0117-4829-8535-08e06c74960c"}],"name":"Backlog","id":"c9f32d84-4a09-48d0-b81a-7c6e118e490f"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T15:14:01.299Z","id":"abf5e23a-e5cc-4488-bcf1-aa43e2268c2f"}],"name":"Development","id":"ceafc44f-1bac-4e09-a0d2-b5a1fdee4bdc"}],"sourceIndex":1,"destinationIndex":0,"sourceListId":"c9f32d84-4a09-48d0-b81a-7c6e118e490f","destinationListId":"c9f32d84-4a09-48d0-b81a-7c6e118e490f"}}
+[2025-07-02T15:14:03.150Z] [INFO] Cards were successfully reordered
+[2025-07-02T17:32:09.281Z] [INFO] New card "12" was successfully created with an id c1f9146e-03c3-4dde-ba6e-70671a30b0a2
+[2025-07-02T17:32:22.205Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descriptio"
+[2025-07-02T17:32:22.364Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descripti"
+[2025-07-02T17:32:22.545Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descript"
+[2025-07-02T17:32:22.659Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descrip"
+[2025-07-02T17:32:22.825Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descri"
+[2025-07-02T17:32:22.982Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descr"
+[2025-07-02T17:32:23.189Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add desc"
+[2025-07-02T17:32:23.313Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descr"
+[2025-07-02T17:32:23.461Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add des"
+[2025-07-02T17:32:23.596Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add desc"
+[2025-07-02T17:32:23.770Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add des"
+[2025-07-02T17:32:24.435Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add de"
+[2025-07-02T17:32:24.888Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add d"
+[2025-07-02T17:32:27.045Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:27.476Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:28.263Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:28.935Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:29.507Z] [ERROR] Card new description is empty
+[2025-07-02T17:32:52.740Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:52.891Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:53.088Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:53.197Z] [WARNING] Card new description is too short
+[2025-07-02T17:32:54.026Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd d"
+[2025-07-02T17:32:54.071Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd de"
+[2025-07-02T17:32:54.291Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd des"
+[2025-07-02T17:32:54.384Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd desc"
+[2025-07-02T17:32:54.630Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descr"
+[2025-07-02T17:32:56.207Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descri"
+[2025-07-02T17:32:56.327Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descrit"
+[2025-07-02T17:32:56.765Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descriti"
+[2025-07-02T17:32:56.915Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descritio"
+[2025-07-02T17:32:57.011Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descrition"
+[2025-07-02T17:32:58.922Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descritio"
+[2025-07-02T17:32:59.150Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descriti"
+[2025-07-02T17:32:59.387Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descrit"
+[2025-07-02T17:32:59.621Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descri"
+[2025-07-02T17:32:59.809Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd descr"
+[2025-07-02T17:33:00.007Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd desc"
+[2025-07-02T17:33:00.173Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd des"
+[2025-07-02T17:33:00.328Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd de"
+[2025-07-02T17:33:00.507Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "ADd d"
+[2025-07-02T17:33:00.669Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:00.814Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:00.985Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:01.153Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:01.324Z] [ERROR] Card new description is empty
+[2025-07-02T17:33:02.942Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:03.165Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:03.337Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:03.488Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:04.159Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add d"
+[2025-07-02T17:33:04.236Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add de"
+[2025-07-02T17:33:04.614Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add des"
+[2025-07-02T17:33:04.775Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add desc"
+[2025-07-02T17:33:05.018Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descr"
+[2025-07-02T17:33:05.306Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descri"
+[2025-07-02T17:33:05.523Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descrip"
+[2025-07-02T17:33:05.830Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descript"
+[2025-07-02T17:33:05.957Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descripti"
+[2025-07-02T17:33:06.104Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descriptio"
+[2025-07-02T17:33:06.222Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description"
+[2025-07-02T17:33:06.975Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description "
+[2025-07-02T17:33:07.182Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description f"
+[2025-07-02T17:33:07.296Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fd"
+[2025-07-02T17:33:07.345Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fds"
+[2025-07-02T17:33:07.430Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fdsf"
+[2025-07-02T17:33:07.586Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fdsfs"
+[2025-07-02T17:33:07.723Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fdsfsf"
+[2025-07-02T17:33:08.445Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fdsfs"
+[2025-07-02T17:33:08.672Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fdsf"
+[2025-07-02T17:33:08.818Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fds"
+[2025-07-02T17:33:09.011Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description fd"
+[2025-07-02T17:33:09.231Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description f"
+[2025-07-02T17:33:09.471Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description "
+[2025-07-02T17:33:09.651Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add description"
+[2025-07-02T17:33:09.816Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descriptio"
+[2025-07-02T17:33:09.996Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descripti"
+[2025-07-02T17:33:10.244Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descript"
+[2025-07-02T17:33:10.456Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descrip"
+[2025-07-02T17:33:10.653Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descri"
+[2025-07-02T17:33:10.822Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add descr"
+[2025-07-02T17:33:10.968Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add desc"
+[2025-07-02T17:33:11.168Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add des"
+[2025-07-02T17:33:11.350Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add de"
+[2025-07-02T17:33:11.525Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "Add d"
+[2025-07-02T17:33:11.709Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:11.878Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:12.062Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:12.215Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:12.400Z] [ERROR] Card new description is empty
+[2025-07-02T17:33:14.873Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:14.975Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:15.033Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:15.114Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:15.337Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New d"
+[2025-07-02T17:33:15.370Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New de"
+[2025-07-02T17:33:15.681Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New des"
+[2025-07-02T17:33:15.787Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New desc"
+[2025-07-02T17:33:17.220Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descr"
+[2025-07-02T17:33:18.429Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descri"
+[2025-07-02T17:33:18.626Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descrip"
+[2025-07-02T17:33:18.794Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descript"
+[2025-07-02T17:33:18.907Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descripti"
+[2025-07-02T17:33:19.067Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descriptio"
+[2025-07-02T17:33:19.159Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description"
+[2025-07-02T17:33:20.910Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully copied at Wed Jul 02 2025 20:33:20 GMT+0300 (за східноєвропейським літнім часом). New card id: 80afe741-4b10-4435-a96c-0dc644506d40
+[2025-07-02T17:33:23.467Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description "
+[2025-07-02T17:33:23.640Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description v"
+[2025-07-02T17:33:23.719Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vh"
+[2025-07-02T17:33:23.741Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhg"
+[2025-07-02T17:33:23.862Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhgh"
+[2025-07-02T17:33:23.876Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghf"
+[2025-07-02T17:33:23.945Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfc"
+[2025-07-02T17:33:24.086Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcf"
+[2025-07-02T17:33:24.096Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfg"
+[2025-07-02T17:33:25.588Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfgh"
+[2025-07-02T17:33:25.602Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghg"
+[2025-07-02T17:33:26.013Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgy"
+[2025-07-02T17:33:26.118Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyf"
+[2025-07-02T17:33:26.243Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfy"
+[2025-07-02T17:33:26.345Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyf"
+[2025-07-02T17:33:26.477Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfh"
+[2025-07-02T17:33:26.540Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhg"
+[2025-07-02T17:33:26.636Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgf"
+[2025-07-02T17:33:26.735Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfh"
+[2025-07-02T17:33:26.760Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhj"
+[2025-07-02T17:33:26.950Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhjh"
+[2025-07-02T17:33:26.972Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhjhj"
+[2025-07-02T17:33:27.003Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhjhjg"
+[2025-07-02T17:33:29.836Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully copied at Wed Jul 02 2025 20:33:29 GMT+0300 (за східноєвропейським літнім часом). New card id: cd18ff47-ec50-4319-a514-253732995eac
+[2025-07-02T17:33:32.655Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhjhj"
+[2025-07-02T17:33:32.872Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhjh"
+[2025-07-02T17:33:33.056Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfhj"
+[2025-07-02T17:33:33.239Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgfh"
+[2025-07-02T17:33:33.418Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhgf"
+[2025-07-02T17:33:33.586Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfhg"
+[2025-07-02T17:33:33.737Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyfh"
+[2025-07-02T17:33:33.928Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfyf"
+[2025-07-02T17:33:34.077Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyfy"
+[2025-07-02T17:33:34.227Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgyf"
+[2025-07-02T17:33:34.371Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghgy"
+[2025-07-02T17:33:34.517Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfghg"
+[2025-07-02T17:33:34.650Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfgh"
+[2025-07-02T17:33:34.810Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcfg"
+[2025-07-02T17:33:34.932Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfcf"
+[2025-07-02T17:33:35.060Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghfc"
+[2025-07-02T17:33:35.579Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhghf"
+[2025-07-02T17:33:35.609Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhgh"
+[2025-07-02T17:33:35.688Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vhg"
+[2025-07-02T17:33:35.689Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vh"
+[2025-07-02T17:33:35.712Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description vh"
+[2025-07-02T17:33:35.757Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description v"
+[2025-07-02T17:33:35.792Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description "
+[2025-07-02T17:33:35.824Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New description"
+[2025-07-02T17:33:35.845Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descriptio"
+[2025-07-02T17:33:35.893Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descriptio"
+[2025-07-02T17:33:36.169Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descripti"
+[2025-07-02T17:33:36.686Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descript"
+[2025-07-02T17:33:36.711Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descrip"
+[2025-07-02T17:33:36.792Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descri"
+[2025-07-02T17:33:36.793Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descr"
+[2025-07-02T17:33:36.821Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New descr"
+[2025-07-02T17:33:36.849Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New desc"
+[2025-07-02T17:33:37.071Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New des"
+[2025-07-02T17:33:37.230Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New de"
+[2025-07-02T17:33:37.401Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 description was successfully changed to "New d"
+[2025-07-02T17:33:37.580Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:37.771Z] [WARNING] Card new description is too short
+[2025-07-02T17:33:40.613Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully renamed to "123"
+[2025-07-02T17:33:40.680Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully renamed to "1234"
+[2025-07-02T17:33:42.388Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully renamed to "123"
+[2025-07-02T17:33:42.541Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully renamed to "12"
+[2025-07-02T17:33:42.711Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully renamed to "1"
+[2025-07-02T17:33:42.870Z] [ERROR] Card new name is empty
+[2025-07-02T17:33:47.019Z] [INFO] Card c1f9146e-03c3-4dde-ba6e-70671a30b0a2 was successfully deleted
+[2025-07-02T17:34:35.928Z] [INFO] Method "reorder" has the next arguments: {"0":[{"cards":[{"name":"Implement list renaming functionality","description":"Expected result - ability to modify the list name","createdAt":"2025-07-02T17:34:28.460Z","id":"e68a0ec6-2d3e-45c6-af6f-7770ef5d9dd0"},{"name":"Implement card creation feature","description":"Expected result - ability to add new cards to lists","createdAt":"2025-07-02T17:34:28.460Z","id":"de66a512-cd44-4f5a-93f3-790d559738c5"},{"name":"Implement card deletion functionality","description":"Expected result - ability to remove cards when delete button is pressed","createdAt":"2025-07-02T17:34:28.460Z","id":"5c036c9b-6505-49e7-8cab-2f88662eeb9c"},{"name":"Implement card title renaming","description":"Expected result - possibility to change the card title","createdAt":"2025-07-02T17:34:28.460Z","id":"ff7e2562-0c29-4f76-8cc2-b29781a17ff7"},{"name":"Implement card description renaming","description":"Expected result - possibility to change the card description","createdAt":"2025-07-02T17:34:28.460Z","id":"d7881ab7-e451-48fb-9059-82a8ae358ec2"},{"name":"Implement task duplication feature","description":"Expected result - ability to duplicate cards. Should be implemented using Prototype pattern. New ID should be generated for copied card. The card name should include \"duplicate\" suffix","createdAt":"2025-07-02T17:34:28.460Z","id":"eb93f6ee-54d5-4f09-aeb8-a49ba2c39677"},{"name":"Implement logging on server side","description":"Expected result - implemented logging with 3 levels: info, warn, error. Should be implemented using Observer pattern. There should be 2 loggers: first will write only errors into console, second will write all logs into file","createdAt":"2025-07-02T17:34:28.460Z","id":"edac52f9-209d-474f-8dd7-e37e94e937a4"},{"name":"Implement logging of reorder action","description":"Expected result - implemented logging for the ReorderService (logging proxy). Should be implemented using Proxy pattern. Should be logged for each card/list with the info when it was moved","createdAt":"2025-07-02T17:34:28.460Z","id":"583aea94-01c8-4d4d-9330-e62306c720ce"}],"name":"Backlog","id":"d6a7582c-3338-4a5e-b46a-adbd8a61a8cb"},{"cards":[{"name":"Implement list creation functionality","description":"Expected result - ability to add new lists to the board","createdAt":"2025-07-02T17:34:28.460Z","id":"bf968cc6-d57d-4be5-9c3f-e2251663019c"}],"name":"Development","id":"2933a98c-68f3-4848-85d6-493a97481c3f"}],"1":1,"2":0}
+[2025-07-02T17:34:35.931Z] [INFO] Lists were successfully reordered
+[2025-07-02T17:34:52.571Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to list"
+[2025-07-02T17:34:53.070Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to lis"
+[2025-07-02T17:34:53.587Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to li"
+[2025-07-02T17:34:53.640Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to l"
+[2025-07-02T17:34:53.700Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to "
+[2025-07-02T17:34:53.703Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to "
+[2025-07-02T17:34:53.735Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards to"
+[2025-07-02T17:34:53.749Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards t"
+[2025-07-02T17:34:53.783Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards "
+[2025-07-02T17:34:53.824Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards t"
+[2025-07-02T17:34:53.865Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards "
+[2025-07-02T17:34:53.877Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards"
+[2025-07-02T17:34:53.912Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards"
+[2025-07-02T17:34:53.943Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards "
+[2025-07-02T17:34:53.982Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards"
+[2025-07-02T17:34:54.013Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new card"
+[2025-07-02T17:34:54.043Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new car"
+[2025-07-02T17:34:54.079Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new cards"
+[2025-07-02T17:34:54.115Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new card"
+[2025-07-02T17:34:54.147Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new car"
+[2025-07-02T17:34:54.175Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new ca"
+[2025-07-02T17:34:54.225Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new car"
+[2025-07-02T17:34:54.271Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new ca"
+[2025-07-02T17:34:54.281Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new c"
+[2025-07-02T17:34:54.329Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new c"
+[2025-07-02T17:34:54.342Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new "
+[2025-07-02T17:34:54.389Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new ca"
+[2025-07-02T17:34:54.422Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new c"
+[2025-07-02T17:34:54.450Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new "
+[2025-07-02T17:34:54.470Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new"
+[2025-07-02T17:34:54.507Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add ne"
+[2025-07-02T17:34:54.541Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new"
+[2025-07-02T17:34:54.587Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new "
+[2025-07-02T17:34:54.612Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new"
+[2025-07-02T17:34:54.640Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add ne"
+[2025-07-02T17:34:54.668Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add n"
+[2025-07-02T17:34:54.715Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add new"
+[2025-07-02T17:34:54.739Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add ne"
+[2025-07-02T17:34:54.769Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add n"
+[2025-07-02T17:34:54.812Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add "
+[2025-07-02T17:34:54.841Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add ne"
+[2025-07-02T17:34:54.864Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add n"
+[2025-07-02T17:34:54.906Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add"
+[2025-07-02T17:34:54.938Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add n"
+[2025-07-02T17:34:54.965Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add "
+[2025-07-02T17:34:55.012Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add "
+[2025-07-02T17:34:55.029Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add"
+[2025-07-02T17:34:55.071Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to add"
+[2025-07-02T17:34:55.095Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to ad"
+[2025-07-02T17:34:55.134Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to a"
+[2025-07-02T17:34:55.159Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to "
+[2025-07-02T17:34:55.191Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability to"
+[2025-07-02T17:34:55.226Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability t"
+[2025-07-02T17:34:55.257Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability "
+[2025-07-02T17:34:55.292Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ability"
+[2025-07-02T17:34:55.331Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - abilit"
+[2025-07-02T17:34:55.363Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - abili"
+[2025-07-02T17:34:55.394Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - abil"
+[2025-07-02T17:34:55.422Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - abi"
+[2025-07-02T17:34:56.120Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - ab"
+[2025-07-02T17:34:56.636Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - a"
+[2025-07-02T17:34:56.664Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result - "
+[2025-07-02T17:34:56.750Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result -"
+[2025-07-02T17:34:56.752Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result "
+[2025-07-02T17:34:56.785Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result "
+[2025-07-02T17:34:56.819Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected result"
+[2025-07-02T17:34:56.828Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected resul"
+[2025-07-02T17:34:56.868Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected resul"
+[2025-07-02T17:34:56.900Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected resu"
+[2025-07-02T17:34:56.928Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected res"
+[2025-07-02T17:34:57.262Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected re"
+[2025-07-02T17:34:57.514Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected r"
+[2025-07-02T17:34:57.713Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected "
+[2025-07-02T17:34:57.921Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expected"
+[2025-07-02T17:34:58.133Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expecte"
+[2025-07-02T17:34:58.308Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expect"
+[2025-07-02T17:34:58.500Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Expec"
+[2025-07-02T17:34:58.686Z] [WARNING] Card new description is too short
+[2025-07-02T17:34:58.888Z] [WARNING] Card new description is too short
+[2025-07-02T17:34:59.096Z] [WARNING] Card new description is too short
+[2025-07-02T17:34:59.293Z] [WARNING] Card new description is too short
+[2025-07-02T17:34:59.818Z] [ERROR] Card new description is empty
+[2025-07-02T17:35:04.952Z] [WARNING] Card new description is too short
+[2025-07-02T17:35:05.142Z] [WARNING] Card new description is too short
+[2025-07-02T17:35:05.218Z] [WARNING] Card new description is too short
+[2025-07-02T17:35:05.391Z] [WARNING] Card new description is too short
+[2025-07-02T17:35:05.506Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Never"
+[2025-07-02T17:35:05.647Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Never "
+[2025-07-02T17:35:06.660Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Never m"
+[2025-07-02T17:35:06.813Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Never mi"
+[2025-07-02T17:35:06.977Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Never min"
+[2025-07-02T17:35:07.834Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 description was successfully changed to "Never mind"
+[2025-07-02T17:35:16.344Z] [INFO] Card de66a512-cd44-4f5a-93f3-790d559738c5 was successfully deleted
+[2025-07-02T17:35:21.620Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion functionalit"
+[2025-07-02T17:35:22.132Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion functionali"
+[2025-07-02T17:35:22.166Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion functional"
+[2025-07-02T17:35:22.244Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion functiona"
+[2025-07-02T17:35:22.245Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion function"
+[2025-07-02T17:35:22.263Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion function"
+[2025-07-02T17:35:22.300Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion functio"
+[2025-07-02T17:35:22.329Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion functi"
+[2025-07-02T17:35:22.369Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion funct"
+[2025-07-02T17:35:22.394Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion func"
+[2025-07-02T17:35:22.429Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion fun"
+[2025-07-02T17:35:22.460Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion fu"
+[2025-07-02T17:35:22.494Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion f"
+[2025-07-02T17:35:22.527Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion "
+[2025-07-02T17:35:22.559Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletion"
+[2025-07-02T17:35:22.592Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deletio"
+[2025-07-02T17:35:22.625Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card deleti"
+[2025-07-02T17:35:22.657Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card delet"
+[2025-07-02T17:35:22.692Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card dele"
+[2025-07-02T17:35:22.726Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card del"
+[2025-07-02T17:35:22.756Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card de"
+[2025-07-02T17:35:22.790Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card d"
+[2025-07-02T17:35:22.821Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card "
+[2025-07-02T17:35:22.857Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement card"
+[2025-07-02T17:35:22.890Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement car"
+[2025-07-02T17:35:22.922Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement ca"
+[2025-07-02T17:35:22.954Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement c"
+[2025-07-02T17:35:22.988Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement "
+[2025-07-02T17:35:23.026Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implement"
+[2025-07-02T17:35:23.055Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implemen"
+[2025-07-02T17:35:23.087Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Impleme"
+[2025-07-02T17:35:23.118Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Implem"
+[2025-07-02T17:35:23.155Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Imple"
+[2025-07-02T17:35:23.195Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Impl"
+[2025-07-02T17:35:23.215Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Imp"
+[2025-07-02T17:35:23.249Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Im"
+[2025-07-02T17:35:23.288Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "I"
+[2025-07-02T17:35:23.329Z] [ERROR] Card new name is empty
+[2025-07-02T17:35:28.061Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "D"
+[2025-07-02T17:35:28.155Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "De"
+[2025-07-02T17:35:28.390Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Dem"
+[2025-07-02T17:35:28.584Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Demo"
+[2025-07-02T17:35:28.850Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Demo "
+[2025-07-02T17:35:32.340Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Demo"
+[2025-07-02T17:35:32.539Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Dem"
+[2025-07-02T17:35:32.686Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "De"
+[2025-07-02T17:35:32.828Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "D"
+[2025-07-02T17:35:32.981Z] [ERROR] Card new name is empty
+[2025-07-02T17:35:33.242Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "F"
+[2025-07-02T17:35:33.965Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "Fo"
+[2025-07-02T17:35:34.016Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "For"
+[2025-07-02T17:35:34.090Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "For "
+[2025-07-02T17:35:34.329Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "For d"
+[2025-07-02T17:35:34.398Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "For de"
+[2025-07-02T17:35:34.614Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "For dem"
+[2025-07-02T17:35:34.807Z] [INFO] Card 5c036c9b-6505-49e7-8cab-2f88662eeb9c was successfully renamed to "For demo"

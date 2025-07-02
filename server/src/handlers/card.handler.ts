@@ -6,6 +6,8 @@ import { SocketHandler } from "./socket.handler";
 import { logger } from "../common/helpers/logger";
 import { findItemIndexById, insertItem, updateItemAtIndex } from "../common/helpers/handlers/handler-helper";
 
+const DESCRIPTION_MIN_LENGTH = 5;
+
 class CardHandler extends SocketHandler {
   public handleConnection(socket: Socket): void {
     socket.on(CardEvent.CREATE, this.createCard.bind(this));
@@ -72,7 +74,7 @@ class CardHandler extends SocketHandler {
     this.updateLists();
 
     if(!newName.trim()) {
-      logger.log("warning", "Card new name is empty");
+      logger.log("error", "Card new name is empty");
     } else {
       logger.log("info", `Card ${cardId} was successfully renamed to "${newName}"`);
     }
@@ -128,7 +130,9 @@ class CardHandler extends SocketHandler {
     this.updateLists();
 
     if(!newDescription.trim()) {
-      logger.log("warning", "Card new description is empty");
+      logger.log("error", "Card new description is empty");
+    } else if(newDescription.trim().length < DESCRIPTION_MIN_LENGTH) {
+      logger.log("warning", "Card new description is too short");
     } else {
       logger.log("info", `Card ${cardId} description was successfully changed to "${newDescription}"`);
     }

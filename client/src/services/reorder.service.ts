@@ -74,8 +74,7 @@ import { type Card, type List } from "../common/types/types";
   ): Card[] => {
     return cards.slice(0, index)
       .concat(card)
-      .concat(cards
-      .slice(index));
+      .concat(cards.slice(index));
   };
 
   export { reorderLists, reorderCards }
