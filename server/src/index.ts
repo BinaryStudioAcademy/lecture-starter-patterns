@@ -6,7 +6,7 @@ import { Database } from "./data/database";
 import { CardHandler, ListHandler } from "./handlers/handlers";
 import { ReorderService } from "./services/reorder.service";
 
-const PORT = 3005;
+const PORT = 3006;
 
 const httpServer = createServer();
 const io = new Server(httpServer, {
