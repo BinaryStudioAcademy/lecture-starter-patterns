@@ -1,6 +1,6 @@
 import type { DraggableProvided } from "@hello-pangea/dnd";
 
-import { type Card } from "../../common/types/types";
+import { type Card } from "src/common/types/types";
 import { CopyButton } from "../primitives/copy-button";
 import { DeleteButton } from "../primitives/delete-button";
 import { Splitter } from "../primitives/styled/splitter";

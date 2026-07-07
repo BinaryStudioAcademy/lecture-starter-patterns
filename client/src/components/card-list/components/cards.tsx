@@ -5,8 +5,8 @@ import type {
 import { Draggable } from "@hello-pangea/dnd";
 import React from "react";
 
-import { type Card } from "../../../common/types/types";
-import { CardItem } from "../../card-item/card-item";
+import type { Card } from "src/common/types/types";
+import { CardItem } from "src/components/card-item/card-item";
 
 type Props = {
   cards: Card[];

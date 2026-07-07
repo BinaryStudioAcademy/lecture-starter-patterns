@@ -5,7 +5,7 @@ const ColumnCreatorContainer = styled.div`
   justify-content: space-between;
   background-color: #ebecf0;
   height: 32px;
-  padding: 8px;
+  padding: 10px;
 `;
 
 export { ColumnCreatorContainer };
