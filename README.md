@@ -7,8 +7,8 @@
 
 ## Requirements
 
-- NodeJS (16.x.x)
-- NPM (8.x.x)
+- NodeJS (18.x.x)
+- NPM (10.x.x)
 
 ## Start the application
 
