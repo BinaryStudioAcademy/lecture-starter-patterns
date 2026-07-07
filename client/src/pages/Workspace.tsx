@@ -24,7 +24,7 @@ export const Workspace = () => {
     socket.on(ListEvent.UPDATE, (lists: List[]) => setLists(lists));
 
     return () => {
-      socket.removeAllListeners(ListEvent.UPDATE).close();
+      socket.removeAllListeners(ListEvent.UPDATE);
     };
   }, []);
 
