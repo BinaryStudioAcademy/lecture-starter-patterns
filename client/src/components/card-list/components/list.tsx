@@ -1,6 +1,6 @@
 import { DroppableProvided } from "@hello-pangea/dnd";
 
-import { type Card } from "../../../common/types/types";
+import type { Card } from "src/common/types/types";
 import { DropZone } from "../styled/drop-zone";
 import { Cards } from "./cards";
 

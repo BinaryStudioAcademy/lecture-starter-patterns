@@ -4,7 +4,7 @@ import type {
 } from "@hello-pangea/dnd";
 import { Draggable } from "@hello-pangea/dnd";
 
-import { type Card } from "../../common/types/types";
+import { type Card } from "src/common/types/types";
 import { CardsList } from "../card-list/card-list";
 import { DeleteButton } from "../primitives/delete-button";
 import { Splitter } from "../primitives/styled/splitter";

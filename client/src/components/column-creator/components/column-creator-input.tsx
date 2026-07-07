@@ -1,4 +1,4 @@
-import { CreatorInput } from '../../primitives/creator-input';
+import { CreatorInput } from 'src/components/primitives/creator-input';
 import { ColumnCreatorContainer } from '../styled/column-creator-container';
 
 type Props = {

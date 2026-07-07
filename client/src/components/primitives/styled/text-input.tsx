@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 
-import { BORDER_RADIUS } from "../../../common/constants/constants";
+import { BORDER_RADIUS } from "src/common/constants/constants";
 
 const TextInput = styled.textarea`
   border-radius: ${BORDER_RADIUS}px;

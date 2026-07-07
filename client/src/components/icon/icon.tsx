@@ -1,7 +1,7 @@
-import Add from "../../assets/icons/add.svg?react";
-import Copy from "../../assets/icons/copy.svg?react";
-import Delete from "../../assets/icons/delete.svg?react";
-import { type IconName } from "../../common/types/types";
+import Add from "src/assets/icons/add.svg?react";
+import Copy from "src/assets/icons/copy.svg?react";
+import Delete from "src/assets/icons/delete.svg?react";
+import type { IconName } from "src/common/types/types";
 
 type Props = {
   iconName: IconName;

@@ -1,6 +1,6 @@
 import { ChangeEvent, useEffect, useState } from 'react';
 
-import { useComponentVisible } from '../../hooks/useComponentVisible';
+import { useComponentVisible } from 'src/hooks/useComponentVisible';
 import { BasicTitle } from './styled/basic-title';
 import { TitleContainer } from './styled/title-container';
 import { TitleInput } from './styled/title-input';
