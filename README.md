@@ -5,27 +5,28 @@
 - This project saves data in memory so you don't need any database
 - This project uses [NPM Workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
 
-## Requirements
+## How to set up
 
-- NodeJS (18.x.x)
-- NPM (10.x.x)
+### Prerequisites
 
-## Start the application
+- NodeJS > **18.x**
+- NPM > **10.x**
+- Install dependencies
 
-1. Install dependencies
+  ```cmd
+  npm i
+  ```
 
-```
-npm i
-```
+## Running the application locally
 
-2. Start backend
+- Start backend
 
-```
+```cmd
 npm start -w server
 ```
 
-3. Start client
+- Start client
 
-```
+```cmd
 npm start -w client
 ```
