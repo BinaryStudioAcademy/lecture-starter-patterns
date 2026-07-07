@@ -10,10 +10,10 @@
     "server"
   ],
   "engines": {
-    "node": ">=16 <17",
-    "npm": ">=8 <9"
+    "node": ">=18 <23",
+    "npm": ">=10 <11"
   },
   "devDependencies": {
-    "typescript": "4.9.5"
+    "typescript": "5.6.3"
   }
 }
