@@ -36,7 +36,7 @@ export const Title = ({ onChange, title, fontSize, isBold, width }: Props) => {
           fontSize={fontSize}
           isBold={isBold}
           autoFocus={isComponentVisible}
-          width={width ?? 250}
+          width={width ?? 240}
         />
       ) : (
         <BasicTitle

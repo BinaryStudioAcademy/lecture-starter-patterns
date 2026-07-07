@@ -5,11 +5,11 @@ import { BORDER_RADIUS } from "src/common/constants/constants";
 const Button = styled.button`
   background-color: ${({ color }) => color};
   border-radius: ${BORDER_RADIUS}px;
-  width: 22%;
+  width: 18%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0.1em;
+  padding: 0.2em;
   border: none;
 
   &:hover,
